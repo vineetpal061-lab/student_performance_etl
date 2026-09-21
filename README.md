@@ -41,3 +41,7 @@ student_performance_etl/
 ├── etl.py
 ├── README.md
 └── .gitignore
+## How to Run
+
+```bash
+python etl.py
